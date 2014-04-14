@@ -40,6 +40,7 @@ public class LoginPanel extends JPanel {
 	
 	public String getUsername(){
 		return username.getText();
+		
 	}
 	
 	public char[] getPassword(){

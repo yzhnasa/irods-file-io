@@ -6,7 +6,7 @@ import controller.LoginListener;
 
 public class Login extends JFrame {
 	public static int width = 350;
-	public static int height = 300;
+	public static int height = 250;
 
 	public LoginPanel loginPanel;
 
